@@ -1,5 +1,5 @@
 const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
-const URL = "https://api.github.com/repos/codeyourfuture/js-exercises/pulls";
+const URL = "https://api.github.com/repos/codeyourfuture/dom-ajax-repo/pulls";
 const PRS_LIST_ID = "pull-requests-list";
 const FILTER_BY_USER_ID = "filter-prs-by-user";
 
